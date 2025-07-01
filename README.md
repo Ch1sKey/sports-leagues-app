@@ -2,6 +2,18 @@
 
 A modern single-page application (SPA) built with React and TypeScript that displays sports leagues from around the world with filtering and search capabilities.
 
+## AI Tools used
+Cursor + Claude-4-sonnet
+
+## Tech Stack
+
+- **Framework**: React 18 with TypeScript
+- **Build Tool**: Vite
+- **Package Manager**: pnpm
+- **Data Fetching**: TanStack Query (React Query)
+- **Styling**: Custom CSS with modern design principles
+- **API**: The Sports DB API (https://www.thesportsdb.com/)
+
 ## Features
 
 ### Core Functionality
@@ -19,15 +31,6 @@ A modern single-page application (SPA) built with React and TypeScript that disp
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile
 - **Accessibility**: Keyboard navigation and screen reader support
 - **Modern UI**: Clean, modern interface with smooth animations
-
-## Tech Stack
-
-- **Framework**: React 18 with TypeScript
-- **Build Tool**: Vite
-- **Package Manager**: pnpm
-- **Data Fetching**: TanStack Query (React Query)
-- **Styling**: Custom CSS with modern design principles
-- **API**: The Sports DB API (https://www.thesportsdb.com/)
 
 ## API Endpoints
 
